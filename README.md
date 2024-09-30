@@ -1,16 +1,30 @@
-## Hi there 👋
+><h1 align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;&center=true&size=30">
+  </a>
+</h1>
 
-<!--
-**Valenvgon/Valenvgon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ # 👨🏻‍💻 Data Engenier 
 
-Here are some ideas to get you started:
+### Studies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📈 Graduated in Economy, University of Valencia (UV)
+- 👨🏽‍💻 Studying Data Analyrics and Cloud in EDEM 
+
+### Languages 🌎 
+
+- Spanish (native)
+- English certified with B2 level (EOI) 
+- Studying for C1 level of english 
+- Valenciano certified with C1 level
+- French basic skills 
+
+### Programming lenguages 🗒 
+
+- Python 
+- SQL
+
+### Working experiences
+
+- Client Manager om Vicky Foods (4 months)
+- Treasury and management assistant in EMIMET (4 months) 
