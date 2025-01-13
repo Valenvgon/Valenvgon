@@ -4,7 +4,7 @@
   </a>
 </h1>
 
- # 👨🏻‍💻 Data Engenier 
+ # 👨🏻‍💻 Looking for be Data Engineer
 
 ### Studies
 
