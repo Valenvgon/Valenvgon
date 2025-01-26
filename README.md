@@ -9,7 +9,7 @@
 ### Studies
 
 - 📈 Graduated in Economy, University of Valencia (UV)
-- 👨🏽‍💻 Studying Data Analyrics and Cloud in EDEM 
+- 👨🏽‍💻 Studying Big Data and Cloud in EDEM 
 
 ### Languages 🌎 
 
@@ -20,9 +20,20 @@
 - French basic skills 
 
 ### Programming lenguages 🗒 
+Knowledge on:
+  - Python
+  - SQL
+  - NoSQL
+  - Tableau
+  - DBT
+  - GCP
+  - Terraform
+  - Spark
+  - Kafka
+  - Docker
 
-- Python 
-- SQL
+Participated in:
+  - Data Hub with Google and Cofares
 
 ### Working experiences
 
