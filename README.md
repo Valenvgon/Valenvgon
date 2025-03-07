@@ -69,8 +69,8 @@
 
 ## 📫 Let's Connect!
 💻 **GitHub**: [github.com/Valenvgon](https://github.com/Valenvgon)  
-💼 **LinkedIn**: [linkedin.com/in/valentinvercher](https://linkedin.com/in/valentinvercher)  
-📩 **Email**: valentin@example.com  
+💼 **LinkedIn**: [linkedin.com/in/valentinvercher](https://www.linkedin.com/in/valentin-vercher-gonzalez-518779200/)  
+📩 **Email**: vvercherg@gmail.com  
 
 ---
 
