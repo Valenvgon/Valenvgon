@@ -54,23 +54,16 @@
 | 🇪🇸 Spanish   | Native |
 | 🇬🇧 English   | B2 (EOI) – Studying C1 |
 | 🏴‍☠️ Valenciano | C1 Certified |
-| 🇫🇷 French    | Basic |
 
 ---
 
 ## 💼 Work Experience
+- 📌 **Data Scientist** at **Grupo Xtra** (3 march of 2025 - actually there)  
+  - Managed customer relationships and provided **data-driven insights**.  
 - 📌 **Client Manager** at **Vicky Foods** (4 months)  
   - Managed customer relationships and provided **data-driven insights**.  
 - 📌 **Treasury & Management Assistant** at **EMIMET** (4 months)  
   - Worked with **financial analytics & data reporting**.  
-
----
-
-## 🏆 Projects & Achievements
-🔹 **🏅 Winner of NTT Data Hackathon** – Developed a **scalable cloud-based data architecture** using GCP.  
-🔹 **Data Hub with Google & Cofares** – Worked on **data pipelines and cloud infrastructure**.  
-🔹 **Big Data ETL Pipeline** – Built a scalable ETL pipeline using **Apache Beam & GCP**.  
-🔹 **Real-time Data Streaming** – Implemented a **Kafka & Spark** streaming architecture.  
 
 ---
 
