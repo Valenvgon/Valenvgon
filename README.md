@@ -58,7 +58,7 @@
 ---
 
 ## 💼 Work Experience
-- 📌 **Data Scientist** at **Grupo Xtra** (3 march of 2025 - actually there)  
+- 📌 **Data Engineer** at **Grupo Xtra** (3 march of 2025 - actually there)  
   - Managed customer relationships and provided **data-driven insights**.  
 - 📌 **Client Manager** at **Vicky Foods** (4 months)  
   - Managed customer relationships and provided **data-driven insights**.  
