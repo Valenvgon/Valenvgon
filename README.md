@@ -58,6 +58,8 @@
 ---
 
 ## 💼 Work Experience
+- 📌 **Google Cloud Data Engineer** at **Devoteam** (31 march of 2025 - Actually)  
+  - Managed customer relationships and provided **data-driven insights**.  
 - 📌 **Data Engineer** at **Grupo Xtra** (3 march of 2025 - 28 march of 2025)  
   - Managed customer relationships and provided **data-driven insights**.  
 - 📌 **Client Manager** at **Vicky Foods** (4 months)  
