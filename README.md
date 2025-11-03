@@ -58,8 +58,8 @@
 ---
 
 ## 💼 Work Experience
-- 📌 **Google Cloud Data Engineer** at **Deloitte** (August 2025 - Actually)
-  - Managed customer relationships and provided **data-driven insights**.  
+- 📌 **Cloud Data Engineer** at **Deloitte** (August 2025 - Actually)
+  - Managed customer relationships and provided **data-driven insights**, specially in **Azure Cloud**.  
 - 📌 **Google Cloud Data Engineer** at **Devoteam** (31 march of 2025 - August 2025)  
   - Managed customer relationships and provided **data-driven insights**.  
 - 📌 **Data Engineer** at **Grupo Xtra** (3 march of 2025 - 28 march of 2025)  
